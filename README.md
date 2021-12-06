@@ -1,3 +1,3 @@
 # WEEM
 
-Please find anything you need in our WIKI :) 
+Please find anything you need to know in our Wiki :) 
